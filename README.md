@@ -1,7 +1,7 @@
 # 🙋‍♀️ About Me:
-##### ☑️ Got a business idea? Great! It's time to make it real so let's just get it done!<br> 
-##### 📱 I’m a software engineering professional bridging the gap between the business and technology stakeholders on technology projects. I’m specializing in developing iOS/Android applications using Native and Cross-platform frameworks. I have helped set up projects and teams from scratch and also helped in maintaining and developing existing projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect.
-##### 👩 By turning your Ideas into reality. I’m not just another developer, I’m the Best in what I do, at affordable rates.
+#### ☑️ Got a business idea? Great! It's time to make it real so let's just get it done!<br> 
+#### 📱 I’m a software engineering professional bridging the gap between the business and technology stakeholders on technology projects. I’m specializing in developing iOS/Android applications using Native and Cross-platform frameworks. I have helped set up projects and teams from scratch and also helped in maintaining and developing existing projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect.
+#### 👩 By turning your Ideas into reality. I’m not just another developer, I’m the Best in what I do, at affordable rates.
 
 
 ## 🌐 Socials:
